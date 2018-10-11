@@ -13,11 +13,11 @@ def imprime(archivo_nessus,archivo_arachni,ip,puerto):
     print ip+":"+puerto
   elif imprimir == "2":
     archivo_arachni.write("http://"+ip+":"+puerto + os.linesep)
-    archivo_nessus.write(ip+":"+puerto+", ")
+    archivo_nessus.write(ip+", ")
   elif imprimir == "1":
     archivo_arachni.write("http://"+ip+":"+puerto + os.linesep)
   elif imprimir == "0":
-    archivo_nessus.write(ip+":"+puerto +", ")
+    archivo_nessus.write(ip+", ")
 
 def main(fichero):
   try:
