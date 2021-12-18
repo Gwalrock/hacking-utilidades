@@ -3,6 +3,7 @@ Serie de scripts para obtener información del sistema.
 #simple_info.bat
 
 Obtención de información del sistema a través del CMD:
+
 systeminfo, puertos abiertos, configuración de red, procesos, usuarios, gpos y usuarios conectados
 
 #Rec_info_basica.ps1
