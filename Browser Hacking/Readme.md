@@ -1,1 +1,1 @@
-Serie de extensiones o adds-on del navegador útiles para la recopilación de información.
+El uso de técnicas **OSINT** para la recopilación de información es muy importante durante nuestros ejercicios de seguridad, por lo que una primera visión rápida puede ayudarnos, para esta tarea pueden ser útiles una serie de extensiones o addons del navegador mediante los cuales podemos obtener información interesante.
