@@ -17,3 +17,7 @@ Equipo, BIOS, versiones, parches, usuarios, discos y logon
 ## Registro_de_conexiones.ps1
 
 Obtención del registro de conexiones de los usuarios en los últimos 90 días
+
+## spamcause
+
+Script que decodifica el tag spamcause en los mails
