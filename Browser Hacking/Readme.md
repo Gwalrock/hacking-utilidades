@@ -1,4 +1,5 @@
-[Versión en español]
+# Descripción
+## [Versión en español]
 
 El uso de técnicas **OSINT** para la recopilación de información es muy importante durante nuestros ejercicios de seguridad, por lo que una primera visión rápida puede ayudarnos, para esta tarea pueden ser útiles una serie de extensiones o addons del navegador mediante los cuales podemos obtener información interesante, arquitectura, software, emails.
 
@@ -6,7 +7,7 @@ Además podemos gestionar los diferentes proxys que utilicemos para nuestras her
 
 Y por supuesto, debemos tener muy encuenta las herramientas de desarrollo que nos proporcionan los navegadores, utilizándolas podremos localizar información muy útil.
 
-[English version]
+## [English version]
 
 The use of OSINT techniques for information gathering is very important during our security exercises, so a first quick overview can help us, for this task can be useful a series of browser extensions or addons through which we can obtain interesting information, architecture, software, emails.
 
