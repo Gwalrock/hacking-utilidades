@@ -2,7 +2,7 @@
 
 Análisis de enlaces en diferentes motores de búsqueda.
 
-https://addons.mozilla.org/es/firefox/addon/gotanda/
+https://addons.mozilla.org/es/firefox/addon/gotanda/    
 https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml
 
 **Sputnik**
