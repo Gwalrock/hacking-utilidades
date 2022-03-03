@@ -1,4 +1,4 @@
-Utilidades para hacernos el trabajo de pentester algo más automático y sencillo.
+Utilidades para hacernos el trabajo de pentester algo más automático y sencillo, todas las técnicas y herramientas descritas deben de ser utilizadas únicamente en entornos en los que estemos autorizados; el uso de todo este material es únicamente bajo tu responsabilidad.
 
 ## Automatic Pentesting Tool
 
@@ -24,6 +24,10 @@ Pruebas de concepto de vulnerabilidades
 ## Post-explotación
 
 Scripts para recopilar información en la fase de post-explotación, también pueden ser útiles a la hora de recopilar información de un equipo en ejercicios forenses
+
+## RedTeam
+
+Scripts y utilizadas para un ejercicio de Red Team
 
 ## ssh
 
