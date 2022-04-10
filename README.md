@@ -29,6 +29,10 @@ Scripts para recopilar información en la fase de post-explotación, también pu
 
 Scripts y utilidades para un ejercicio de Red Team
 
+## Spamcause decoder
+
+Script desarrollado en python para decodificar el contenido de la etiqueta spam cause
+
 ## ssh
 
 Script de enumeración de usuarios sobre ssh
