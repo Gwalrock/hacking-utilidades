@@ -27,7 +27,8 @@ Scripts para recopilar información en la fase de post-explotación, también pu
 
 ## RedTeam
 
-Scripts y utilidades para un ejercicio de Red Team
+Scripts y utilidades para un ejercicio de Red Team  
+Keyloggers, scripts de MalduinoW,...
 
 ## Spamcause decoder
 
