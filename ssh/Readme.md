@@ -2,11 +2,11 @@
 
 ## add_ssh_ciphers_config.sh
 
-Crea el fichero config de ssh añadiendo los cifrados obtenidos de:
-ssh -Q mac
-ssh -Q kex
-ssh -Q key
-ssh -Q cipher
+Crea el fichero config de ssh añadiendo los cifrados obtenidos de:  
+ssh -Q mac  
+ssh -Q kex  
+ssh -Q key  
+ssh -Q cipher  
 
 ## user_enum_ssh.py
 
