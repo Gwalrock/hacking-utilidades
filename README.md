@@ -23,7 +23,7 @@ Pruebas de concepto de vulnerabilidades
 
 ## Post-explotación
 
-Scripts para recopilar información en la fase de post-explotación, también pueden ser útiles a la hora de recopilar información de un equipo en ejercicios forenses
+Utilidades para recopilar información en la fase de post-explotación, también pueden ser útiles a la hora de recopilar información de un equipo en ejercicios forenses
 
 ## RedTeam
 
